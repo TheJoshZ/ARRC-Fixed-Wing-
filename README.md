@@ -37,6 +37,6 @@ While maximizing:
 
 Let's start with minimizing weight. V4's connection to the tail does not need to be 3D printed. Instead, let's use something light and strong—a carbon fiber rod—to connect the tail to the front fuselage. Then let's minimize drag, which can be done by reducing the frontal area (generally) and CFD simulations. Let's begin with reducing the frontal area first. Instead of having the frontal hump seen in V4, we will conform to our bottleneck, which is going to be the battery and the motor.  
 
-**Image**  
+<img src="images/V51.png" alt="Fuselage Design" width="400">
 
 As you can see, V5's fuselage is cylindrical. Although I could remove more material around the battery, I think choosing a cylinder achieves an adequate balance between weight, structural strength, and internal volume for this case. As for the rest of the design, you can see in the cross-section view where the battery and the motor are to be placed. Additional work needs to be done as the wing has been redesigned to contain a higher poly-count. Additionally, mounting plates also need to be designed for the motor, but this version is close to being finished! I will update this as I go!  
