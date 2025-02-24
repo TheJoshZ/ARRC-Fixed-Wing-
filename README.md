@@ -11,7 +11,16 @@ The fuselage is to be 3D printed with lightweight PLA. This is a gamble as we st
 ### <u>Versions 1, 2, 3, and 4</u>  
 Versions 1, 2, and 3 were iterations where I tried to figure out the best shape for the fuselage. Unlike the baffle design for the water tank, where each iteration had a clear aim of improving upon the previous iteration's weaknesses through changing the geometry of the baffle, Versions 1 to 4 of the fuselage were more of me trying different things to see how they would look and how much they would weigh. I have no experience in fuselage design prior to this, thus Versions 1 to 4 are more of a showcase of me finding my way instead of demonstrating technical skill. :)  
 
-
+<table>
+  <tr>
+    <td><img src="images/V1.png" alt="Version 1" width="200"></td>
+    <td><img src="images/V2.png" alt="Version 2" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="images/V3.png" alt="Version 3" width="200"></td>
+    <td><img src="images/V4.png" alt="Version 4" width="200"></td>
+  </tr>
+</table>
 
 V1's fuselage began as a circle where the motor is placed. It then expands horizontally. This was done to fit the battery in. I later learned that the size of the battery is similar to the size of the motor, which then led to V2—a fuselage that accommodated the motor and the battery at the front and gradually dipped down towards the tail section. Although this *technically* works, it looks like a snake that swallowed a battery and a motor, and conventional wisdom states that the uglier it looks, the worse it flies (Have you seen early supersonic British jets by chance?). This, in turn, led to Versions 3 and 4, which aimed to improve aesthetics and functionality at the same time.  
 
