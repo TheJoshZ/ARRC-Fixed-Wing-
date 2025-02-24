@@ -41,5 +41,5 @@ Let's start with minimizing weight. V4's connection to the tail does not need to
 
 As you can see, V5's fuselage is cylindrical. Although I could remove more material around the battery, I think choosing a cylinder achieves an adequate balance between weight, structural strength, and internal volume for this case. As for the rest of the design, you can see in the cross-section view where the battery and the motor are to be placed. Additional work needs to be done as the wing has been redesigned to contain a higher poly-count. Additionally, mounting plates also need to be designed for the motor, but this version is close to being finished! I will update this as I go!  
 
-<img src="images/V52.png" alt="Fuselage Design" width="600">
+<img src="images/V52 cursed.png" alt="Fuselage Design" width="600">
 
