@@ -13,12 +13,12 @@ Versions 1, 2, and 3 were iterations where I tried to figure out the best shape 
 
 <table>
   <tr>
-    <td><img src="images/V1.png" alt="Version 1" width="200"></td>
-    <td><img src="images/V2.png" alt="Version 2" width="200"></td>
+    <td><img src="images/V1.png" alt="Version 1" width="400"></td>
+    <td><img src="images/V2.png" alt="Version 2" width="400"></td>
   </tr>
   <tr>
-    <td><img src="images/V3.png" alt="Version 3" width="200"></td>
-    <td><img src="images/V4.png" alt="Version 4" width="200"></td>
+    <td><img src="images/V3.png" alt="Version 3" width="400"></td>
+    <td><img src="images/V4.png" alt="Version 4" width="400"></td>
   </tr>
 </table>
 
